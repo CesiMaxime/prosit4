@@ -6,8 +6,9 @@
 
 ## Class diagram
 
-![diagramme de classe](https://github.com/CesiMaxime/prosit4/assets/150124033/67e624e4-9dea-4872-906c-ec4ddf796d1f)
+![class diagram](https://github.com/CesiMaxime/prosit4/assets/150124033/1a82f009-abf6-49da-9307-bde211ec7f0e)
+
 
 ## Sequence diagram 
 
-![diagram sequence](https://github.com/CesiMaxime/prosit4/assets/150124033/3e51bd21-b8a5-4820-9cd2-2b87992c2b6d)
+![diagram sequence](https://github.com/CesiMaxime/prosit4/assets/150124033/9c5d09af-1b8f-4783-b0b3-b60aa64087b5)
